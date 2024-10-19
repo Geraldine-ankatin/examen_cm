@@ -1,0 +1,11 @@
+export 'package:examen_cm/screen/error.dart';
+export 'package:examen_cm/screen/home.dart';
+export 'package:examen_cm/screen/productos.dart';
+export 'package:examen_cm/screen/proveedores.dart';
+export 'package:examen_cm/screen/login.dart';
+export 'package:examen_cm/screen/register.dart';
+export 'package:examen_cm/screen/editar_proveedor.dart';
+export 'package:examen_cm/screen/categoria.dart';
+export 'package:examen_cm/screen/edit_categoria.dart';
+export 'package:examen_cm/screen/loading.dart';
+export 'package:examen_cm/screen/edit.dart';
